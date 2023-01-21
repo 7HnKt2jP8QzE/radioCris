@@ -1,0 +1,66 @@
+* {
+    color: antiquewhite;
+}
+
+
+h2 {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 70px;
+    width: 900px;
+}
+
+.nota {
+    text-align: center;
+}
+
+.imagenUno {
+    height: 500px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+
+p {
+    text-align: justify;
+    width: 800px;
+    margin: 0 auto;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-top: 30px;
+    font-style: oblique;
+    outline-style: solid;
+}
+
+.enlace {
+    color: rgb(52, 107, 189);
+}
+
+
+@media (max-width : 1020px) {
+
+    body {
+        text-align: center;
+    }
+
+    h2 {
+        width: 280px;
+        font-size: 30px
+    }
+
+    p {
+        width: 280px;
+    }
+
+    .imagenUno {
+        width: 300px;
+        height: 400px;
+
+    }
+}

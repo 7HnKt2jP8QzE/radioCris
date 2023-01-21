@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #151719;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+.menu {
+    height: 100%;
+    width: 90%;
+    margin: 0 auto;
+    position: fixed;
+    margin-top: 20px;
+
+}
+
+li,
+.menuPrincipal {
+    display: inline;
+    margin: 6px;
+    margin-top: 8px;
+    color: antiquewhite;
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.menu {
+    position: relative;
+    text-align: center;
+}
+
+li:nth-child(1):hover {
+    text-decoration-line: underline;
+}
+
+li:nth-child(2):hover {
+    text-decoration-line: underline;
+}
+
+li:nth-child(3):hover {
+    text-decoration-line: underline;
+}
+
+li:nth-child(4):hover {
+    text-decoration-line: underline;
+}
+
+li:nth-child(5):hover {
+    text-decoration-line: underline;
+}
+
+li:nth-child(6):hover {
+    text-decoration-line: underline;
+}
+
+li:nth-child(7):hover {
+    text-decoration-line: underline;
+}
+
+
+/****************Responsable********************/
+
+@media (max-width : 720px) {
+    li {
+        font-size: 80px;
+        border-radius: 20px;
+        margin-top: 20px;
+        padding-top: 20px;
+
+    }
+
+    .menuPrincipal {
+        border-style: solid;
+        display: inline;
+        margin: 5px;
+    margin-top: 5px;
+
+
+    }
+
+
+
+
+}

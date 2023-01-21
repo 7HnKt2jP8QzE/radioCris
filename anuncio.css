@@ -1,0 +1,50 @@
+/***************Anuncios Radiales*******************/
+
+.intro{
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 25px;
+    display: inline-block;
+    
+}
+
+.text{
+    color: antiquewhite;
+    width: 45%;
+    font-size: 28px;
+    margin-left: 50px;
+    text-align: justify;
+    display: inline-block;
+}
+
+.anuncioUno{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.crisLocu{
+    margin-left: 6%;
+}
+
+/****************Responsable********************/
+
+@media (max-width : 1020px) {
+
+    body{
+        text-align: center;
+    }
+    .text{
+        font-size: 20px;
+        margin-top: 15px;
+        width:250px;
+    }
+
+
+    .crisLocu{
+        height: 250px;
+        width: 250px;
+        margin-top: 30px;
+    }
+}
+

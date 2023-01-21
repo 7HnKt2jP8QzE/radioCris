@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: antiquewhite;
+}
+
+.videos{
+    text-align: center;
+}
+
+.video1{
+    width: 505px;
+    display: inline-block;
+    margin-top: 15px;
+    
+}
+
+iframe{
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+@media (max-width : 1020px) {
+
+    h2{
+        margin-top: 20px;
+    }
+
+    body{
+        text-align: center;
+    }
+
+    .video1{
+        width: 305px;
+    }
+
+    iframe{
+        width: 300px;
+        height: 300px;
+    }
+}
