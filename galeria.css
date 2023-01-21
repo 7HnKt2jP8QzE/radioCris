@@ -26,6 +26,41 @@
     object-fit: cover;*/
 }
 
+
+
+.image {
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    margin-top: 35%;
+    margin-left: 30%;
+    margin-right: 20%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .conta:hover .image {
+    opacity: 0.3;
+  }
+  
+  .conta:hover .middle {
+    opacity: 1;
+  }
+
+  .text {
+    background-color: #04AA6D;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+
 .gallery img:hover {
     
     filter: grayscale(0%);
