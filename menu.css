@@ -5,20 +5,22 @@
 }
 
 body {
-    background-color: #151719;
+    
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    
 }
 
 
 .menu {
-    height: 100%;
-    width: 90%;
+    height: 05%;
+    width: 100%;
     margin: 0 auto;
+    margin-top: 0px;
+    padding: 0px;
     position: fixed;
-    margin-top: 20px;
-
+    background-color: #151719;
 }
 
 li,
@@ -36,7 +38,7 @@ a {
 }
 
 .menu {
-    position: relative;
+    position: fixed;
     text-align: center;
 }
 

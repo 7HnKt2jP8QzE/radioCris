@@ -1,30 +1,30 @@
 /***************Anuncios Radiales*******************/
 
 .intro{
-    color: antiquewhite;
+    color: #A6ACAF;
     text-align: center;
     margin-top: 25px;
     margin: auto 0;
-    
+    background: #FBFCFC;
 }
 
 .text{
-    color: antiquewhite;
-    background: rgb(0, 0, 0, .6);
-    width: 50%;
+    color: #17202A;
+    background: #FBFCFC;
+    width: 80%;
     font-size: 20px;
     margin-left: 50px;
     text-align: justify;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
     margin-top: 2%;
     margin-bottom: 2%;
 
 }
 
 .crisLocu{
-    margin-left: 6%;
-    margin-right: 6%;
+    margin-left: 15%;
+    margin-right: 08%;
     width: 500px;
 }
 
