@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color:  #151719;
+  background-color:  #FBFCFC;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -30,7 +30,7 @@ body {
   font-family: 'Alfa Slab One', cursive;
   position: relative;
   display: inline-block;
-  color: #fff;
+  color: #17202A;
   text-transform: uppercase;
   animation: waviy 1s infinite;
   animation-delay: calc(.1s * var(--i));
@@ -49,13 +49,13 @@ li, .menuPrincipal{
 	display: inline;
 	margin: 10px;
   margin-top: 20px;
-	color: antiquewhite;
+	color: #17202A;
   font-size: 15px;
 }
 
 a{
   text-decoration: none;
-  color: antiquewhite;
+  color: #17202A;
 }
 
 .menu{
