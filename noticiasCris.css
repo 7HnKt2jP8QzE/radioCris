@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    color: antiquewhite;
+    color: #17202A;
 }
 
 .noticias{
@@ -17,7 +17,7 @@
 }
 
 .articulo{
-    color: antiquewhite;
+    color: #17202A;
     width: 350px;
 
 }
@@ -25,7 +25,7 @@
 .descripcion{
 
     display: inline-block;
-    font-size: 30px;
+    font-size: 20px;
     text-align: justify;
     margin-left: 40px;
 
