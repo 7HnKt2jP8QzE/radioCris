@@ -1,8 +1,6 @@
-* {
-    color: #17202A;
+article{
+    background: #FBFCFC;
 }
-
-
 h2 {
     text-align: center;
     margin: 0 auto;
@@ -25,7 +23,6 @@ h2 {
 
 p {
     color: #17202A;
-    background: #FBFCFC;
     width: 80%;
     font-size: 20px;
     margin-left: 50px;
