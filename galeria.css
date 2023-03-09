@@ -1038,987 +1038,159 @@ text-align: center;
 @media(max-width: 610px) {
 
   /************UNO************/
-  .image1 {
-    opacity: none;
-    display: none;
-    transition: none;
-    backface-visibility: none;
-  }
-
-  .conta1:hover .image1 {
-    opacity: none;
-  }
-
-  .text1 {
-    background-color: none;
-    color: none;
-    font-size: none;
-    width: none;
-  }
-
-  .conta1:hover .middle1 {
-    opacity: none;
-  }
-
-  .gallery img:hover {
-
-    filter: none;
-    transform: none; none;
-  }
-
   .middle1 {
-    transition: none;
-    opacity: none;
-    
-    transform: none; translate(-15%, 30%);
-    text-align: center;
+    transform: none;           
   }
 
 
   /************DOS************/
-
-  .image2 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta2:hover .image2 {
-    opacity: 0.3;
-  }
-
-  .text2 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta2:hover .middle2 {
-    opacity: 1;
-  }
-
   .middle2 {
-    transition: none;
-    opacity: none;
-    margin-top: 65%;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-10%, -50%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;               
   }
-
 
   /************TRES************/
-
-  .image3 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta3:hover .image3 {
-    opacity: 0.3;
-  }
-
-  .text3 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta3:hover .middle3 {
-    opacity: 1;
-  }
-
   .middle3 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(05%, 300%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************CUATRO************/
-
-  .image4 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta4:hover .image4 {
-    opacity: 0.3;
-  }
-
-  .text4 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta4:hover .middle4 {
-    opacity: 1;
-  }
-
   .middle4 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(10%, 400%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************CINCO************/
-
-  .image5 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta5:hover .image5 {
-    opacity: 0.3;
-  }
-
-  .text5 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta5:hover .middle5 {
-    opacity: 1;
-  }
-
   .middle5 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-20%, -500%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************SEIS************/
-
-  .image6 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta6:hover .image6 {
-    opacity: 0.3;
-  }
-
-  .text6 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta6:hover .middle6 {
-    opacity: 1;
-  }
-
   .middle6 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(130%, 200%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************SIETE************/
-
-  .image7 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta7:hover .image7 {
-    opacity: 0.3;
-  }
-
-  .text7 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta7:hover .middle7 {
-    opacity: 1;
-  }
-
   .middle7 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-130%, 160%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************OCHO************/
-
-  .image8 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta8:hover .image8 {
-    opacity: 0.3;
-  }
-
-  .text8 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta8:hover .middle8 {
-    opacity: 1;
-  }
-
   .middle8 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(10%, 500%);
-    -ms-transform: none; translate(50%, 80%);
-    text-align: center;
+    transform: none;
   }
 
   /************NUEVE************/
-
-  .image9 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta9:hover .image9 {
-    opacity: 0.3;
-  }
-
-  .text9 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta9:hover .middle9 {
-    opacity: 1;
-  }
-
   .middle9 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-10%, -500%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************DIEZ************/
-
-  .image10 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta10:hover .image10 {
-    opacity: 0.3;
-  }
-
-  .text10 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta10:hover .middle10 {
-    opacity: 1;
-  }
-
   .middle10 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-10%, 700%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************ONCE************/
 
-  .image11 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta11:hover .image11 {
-    opacity: 0.3;
-  }
-
-  .text11 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta11:hover .middle11 {
-    opacity: 1;
-  }
-
   .middle11 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(3%, 200%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************DOCE************/
 
-  .image12 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta12:hover .image12 {
-    opacity: 0.3;
-  }
-
-  .text12 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta12:hover .middle12 {
-    opacity: 1;
-  }
-
   .middle12 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-380%, 400%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************TRECE************/
-
-  .image13 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta13:hover .image13 {
-    opacity: 0.3;
-  }
-
-  .text13 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta13:hover .middle13 {
-    opacity: 1;
-  }
-
   .middle13 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(380%, -180%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************CATORCE************/
-
-  .image14 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta14:hover .image14 {
-    opacity: 0.3;
-  }
-
-  .text14 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta14:hover .middle14 {
-    opacity: 1;
-  }
-
   .middle14 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(130%, 290%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************QUINCE************/
 
-  .image15 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta15:hover .image15 {
-    opacity: 0.3;
-  }
-
-  .text15 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta15:hover .middle15 {
-    opacity: 1;
-  }
-
   .middle15 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-130%, 500%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
-
   /************DIECISEIS************/
 
-  .image16 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta16:hover .image16 {
-    opacity: 0.3;
-  }
-
-  .text16 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta16:hover .middle16 {
-    opacity: 1;
-  }
-
   .middle16 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(10%, 400%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************DIECISIETE************/
 
-  .image17 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta17:hover .image17 {
-    opacity: 0.3;
-  }
-
-  .text17 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta17:hover .middle17 {
-    opacity: 1;
-  }
-
   .middle17 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-15%, -270%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************DIECIOCHO************/
 
-  .image18 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta18:hover .image18 {
-    opacity: 0.3;
-  }
-
-  .text18 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta18:hover .middle18 {
-    opacity: 1;
-  }
-
   .middle18 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-10%, 190%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************DIECINUEVE************/
 
-  .image19 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta19:hover .image19 {
-    opacity: 0.3;
-  }
-
-  .text19 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta19:hover .middle19 {
-    opacity: 1;
-  }
-
   .middle19 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: 30%;
-    margin-right: 20%;
-    transform: none; translate(-10%, 100%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTE************/
 
-  .image20 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta20:hover .image20 {
-    opacity: 0.3;
-  }
-
-  .text20 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta20:hover .middle20 {
-    opacity: 1;
-  }
-
   .middle20 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-380%, 350%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI UNO************/
 
-  .image21 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta21:hover .image21 {
-    opacity: 0.3;
-  }
-
-  .text21 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta21:hover .middle21 {
-    opacity: 1;
-  }
-
   .middle21 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(390%, 10%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI DOS************/
 
-  .image22 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta22:hover .image22 {
-    opacity: 0.3;
-  }
-
-  .text22 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta22:hover .middle22 {
-    opacity: 1;
-  }
-
   .middle22 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-05%, 60%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI TRES************/
 
-  .image23 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta23:hover .image23 {
-    opacity: 0.3;
-  }
-
-  .text23 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta23:hover .middle23 {
-    opacity: 1;
-  }
-
   .middle23 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(10%, 190%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI CUATRO************/
 
-  .image24 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta24:hover .image24 {
-    opacity: 0.3;
-  }
-
-  .text24 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta24:hover .middle24 {
-    opacity: 1;
-  }
-
   .middle24 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-390%, 350%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI CINCO************/
 
-  .image25 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta25:hover .image25 {
-    opacity: 0.3;
-  }
-
-  .text25 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta25:hover .middle25 {
-    opacity: 1;
-  }
-
   .middle25 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(390%, 100%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI SEIS************/
 
-  .image26 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta26:hover .image26 {
-    opacity: 0.3;
-  }
-
-  .text26 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta26:hover .middle26 {
-    opacity: 1;
-  }
-
   .middle26 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-8%, -100%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 
   /************VEINTI SIETE************/
 
-  .image27 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta27:hover .image27 {
-    opacity: 0.3;
-  }
-
-  .text27 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta27:hover .middle27 {
-    opacity: 1;
-  }
-
-  .middle27 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-270%, 290%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+  .middle27{
+    transform: none;
   }
 
   /************VEINTI OCHO************/
 
-  .image28 {
-    opacity: 1;
-    display: block;
-    transition: none;
-    backface-visibility: hidden;
-  }
-
-  .conta28:hover .image28 {
-    opacity: 0.3;
-  }
-
-  .text28 {
-    background-color: #0b0b0b;
-    color: white;
-    font-size: 16px;
-    width: 100%;
-  }
-
-  .conta28:hover .middle28 {
-    opacity: 1;
-  }
-
   .middle28 {
-    transition: none;
-    opacity: none;
-    margin-top: none;
-    margin-left: none;
-    margin-right: none;
-    transform: none; translate(-120%, 350%);
-    -ms-transform: none; translate(-50%, -50%);
-    text-align: center;
+    transform: none;
   }
 }
 
