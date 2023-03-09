@@ -1,11 +1,14 @@
 /***************Anuncios Radiales*******************/
 
-.intro{
-    color: #151719;
-    text-align: center;
+.intro {
+    align-items: center;
     margin-top: 25px;
-    display: inline-block;
+    /*display: inline-block;*/
     
+}
+
+.intro img{
+    margin-left: 30%;
 }
 
 .text{
